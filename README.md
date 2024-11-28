@@ -1,1 +1,1 @@
-# modulez
+# MODULEZ COMPONENT LIBRARY
