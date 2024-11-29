@@ -14,10 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
   "devDependencies": {
     "@babel/preset-react": "^7.25.9",
     "@chromatic-com/storybook": "^3.2.2",
@@ -29,6 +25,7 @@
     "@storybook/addon-essentials": "^8.4.5",
     "@storybook/addon-interactions": "^8.4.5",
     "@storybook/addon-onboarding": "^8.4.5",
+    "@storybook/addon-webpack5-compiler-babel": "^3.0.3",
     "@storybook/addon-webpack5-compiler-swc": "^1.0.5",
     "@storybook/blocks": "^8.4.5",
     "@storybook/preset-typescript": "^3.0.0",
@@ -37,8 +34,6 @@
     "@storybook/test": "^8.4.5",
     "@types/react": "^18.3.12",
     "babel-loader": "^9.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "rollup": "^4.27.4",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "typescript": "^4.2.0"
